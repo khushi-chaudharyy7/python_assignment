@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a87a97f-24b4-4f1c-8899-354fec04ee4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python Assignment 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q9.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hsrCgX0ZCpzvtjA8CjdCRU27bY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a87a97f-24b4-4f1c-8899-354fec04ee4c" name="Changes" comment="" />
+      <created>1718393499456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718393499456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
